@@ -1,0 +1,26 @@
+{
+  "python_tested": "3.13.5",
+  "pytest_tested": "9.0.2",
+  "original_tests_unchanged": true,
+  "data_files_unchanged": true,
+  "tests_total": 10,
+  "tests_passed": 10,
+  "sample_summary": {
+    "total_reservations": 12,
+    "confirmed_reservations": 9,
+    "cancelled_reservations": 2,
+    "no_show_reservations": 1,
+    "total_room_nights": 28,
+    "total_amount_brl": "7566.00",
+    "average_nightly_rate_brl": "270.21"
+  },
+  "dataset_summary": {
+    "total_reservations": 300,
+    "confirmed_reservations": 235,
+    "cancelled_reservations": 31,
+    "no_show_reservations": 34,
+    "total_room_nights": 1347,
+    "total_amount_brl": "396170.00",
+    "average_nightly_rate_brl": "294.11"
+  }
+}

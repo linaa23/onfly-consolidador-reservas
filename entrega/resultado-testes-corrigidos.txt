@@ -1,0 +1,6 @@
+Comando: python -m pytest -q
+Ambiente: Python 3.13.5; pytest 9.0.2
+
+..........                                                               [100%]
+10 passed in 6.40s
+
