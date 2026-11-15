@@ -66,4 +66,4 @@ Execução de referência: Python 3.13.5 e Pytest 9.0.2. O arquivo `requirements
 
 ## Uso de inteligência artificial
 
-O ChatGPT (OpenAI, modelo GPT-6) foi usado no estudo da linguagem Python, interpretação das regras, análise de defeitos, implementação das correções, criação dos testes extras, execução das verificações e elaboração da documentação. A descrição e o registro da assistência estão em `uso-de-ia/`. A pessoa candidata deve revisar e complementar a declaração com suas ações próprias e anexar o histórico da conversa conforme as exigências da avaliação.
+O ChatGPT (OpenAI, modelo GPT-6) foi usado no estudo da linguagem Python, interpretação das regras, confirmação da análise de defeitos, criação dos testes extras, execução das verificações e elaboração da documentação. A descrição e o registro da assistência estão em `uso-de-ia/`. 
